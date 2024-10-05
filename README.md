@@ -18,3 +18,16 @@ All Data used were supplied by our Facilitators
   3. For  Visualization
 - SQL-Structured Query Language for Querying of data
 - Github for Portfolio building
+
+### Data Cleaning and Preparations
+In the initial phase of the Data Cleaning and Preparations,we perform the following actions;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and Formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of Data to answer some questions about the Data such as;
+- What is the overall sales trend
+- Which product are top seller
+- What are the product on peak sales?
+  
