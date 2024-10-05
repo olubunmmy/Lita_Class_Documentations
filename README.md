@@ -12,6 +12,9 @@ All Data used were supplied by our Facilitators
 
 ### Tools Used
 
-- Microsoft Excel for Data Cleaning,Analysis and Visualization
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For  Visualization
 - SQL-Structured Query Language for Querying of data
 - Github for Portfolio building
